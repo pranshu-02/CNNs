@@ -1,0 +1,10 @@
+Download The Cats-Vs-Dogs Dataset From:
+
+"https://www.kaggle.com/datamunge/sign-language-mnist/home"
+
+And Save To Location:
+
+"data/sign_mnist_train.csv"
+and
+"data/sign_mnist_test.csv"
+
